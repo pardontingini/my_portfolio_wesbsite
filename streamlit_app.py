@@ -109,7 +109,7 @@ st.markdown("""
         padding: 1rem;
         border-radius: 5px;
     }
-    
+       
     .stRadio > div > div {
         color: white;
     }
@@ -217,13 +217,25 @@ elif page == "About":
     with col1:
         st.markdown("""
         ### My Background
-        As a 
+        I am a passionate tech enthusiast who began my journey with a degree in Information Systems at Midlands State University. 
+        My internship at Regency Hotels provided foundational experience in IT support, networking, database management, and most important, people skills among other things. 
+        A year after graduating, I took on a role as a project administrator in rural Chirumanzu, focusing on digital literacy and setting up a library and computer resource center. 
+        This role expanded my skills in system design, user-centered approaches, and community engagement, inspiring me to pursue an MBA to have a holitic approach to organisations. 
+        Along the way, I’ve also worked on freelance projects in consulting, networking, web development, and hardware/software repairs among others. I also learned to harness cloud technologies aong others.
+        My career has been a rewarding journey of growth, and I’m excited for what’s next!!!.
         """)
         
         st.markdown("""
         ### Professional Journey
-        - Your educational background
-        - Career milestones
+        - #Educational background
+                    
+                    Masters in Business Administration (MBA)
+                        Midlands State University | 2025
+
+                    Bachelor of Science (Honors) in Information Systems
+                        Midlands State University | 2020
+        - #Career milestones
+                    
         - Key achievements
         - Future aspirations
         """)
@@ -232,8 +244,20 @@ elif page == "About":
         st.markdown("""
         ### Personal Interests
         - Hobbies and passions
+                    
+                -Discovering new tech
+                -Art
+                -Music
+                -Cinematography
+                -Sports and Fitness
+                -Chess
+
         - Community involvement
-        - Learning goals
+                    
+                -Teaching Computer literacy
+                -Organising Chess tournaments
+                -Literacy advocacy
+                                -
         - Personal projects
         """)
 
